@@ -1,4 +1,5 @@
 tap "aws/tap"
+tap "dagger/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -22,9 +23,11 @@ brew "fd"
 brew "ffmpeg"
 brew "fish"
 brew "fnm"
+brew "fzf"
 brew "gh"
 brew "ghq"
 brew "git"
+brew "git-delta"
 brew "glances"
 brew "go"
 brew "htop"
@@ -61,6 +64,7 @@ brew "youtube-dl"
 brew "yq"
 brew "aws/tap/aws-sam-cli"
 brew "aws/tap/copilot-cli"
+brew "dagger/tap/dagger"
 brew "jbangdev/tap/jbang"
 brew "quarkusio/tap/quarkus"
 brew "splieth/swamp/swamp"
@@ -76,6 +80,7 @@ cask "google-chrome"
 cask "iterm2"
 cask "jetbrains-toolbox"
 cask "kdiff3"
+cask "launchcontrol"
 cask "micronaut"
 cask "microsoft-teams"
 cask "miro"
@@ -84,6 +89,7 @@ cask "obsidian"
 cask "pop"
 cask "raycast"
 cask "sensei"
+cask "soundsource"
 cask "sourcetree"
 cask "spotify"
 cask "steam"
@@ -92,14 +98,11 @@ cask "teamviewer"
 cask "visual-studio-code"
 cask "zoom"
 mas "Agenda", id: 1287445660
-mas "Be Focused", id: 973134470
 mas "Disk Speed Test", id: 425264550
-mas "Flow", id: 1423210932
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Luminar AI", id: 1541310539
-mas "Microsoft Outlook", id: 985367838
 mas "Moom", id: 419330170
 mas "NordVPN", id: 905953485
 mas "Numbers", id: 409203825

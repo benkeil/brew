@@ -97,7 +97,6 @@ cask "discord"
 cask "docker"
 cask "dropbox"
 cask "font-hack-nerd-font"
-cask "gitkraken"
 cask "google-chrome"
 cask "iterm2"
 cask "jetbrains-toolbox"
@@ -126,6 +125,8 @@ cask "visual-studio-code"
 cask "warp"
 cask "zoom"
 mas "Agenda", id: 1287445660
+mas "Amphetamine", id: 937984704
+mas "AusweisApp2", id: 948660805
 mas "Disk Speed Test", id: 425264550
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
@@ -136,8 +137,8 @@ mas "NordVPN", id: 905953485
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
+mas "Slack", id: 803453959
 mas "Speedtest", id: 1153157709
-mas "Todoist", id: 585829637
 mas "World Clock", id: 956377119
 mas "Xcode", id: 497799835
 mas "Yubico Authenticator", id: 1497506650
